@@ -1,8 +1,5 @@
-DUAL-RHYTHM ARCHITECTURE™ | The Organizational Sync‑Stability Audit 
-Organizational Sync‑Stability Index™ (The OSS Index™) —  The board-level structural stability metric for the AI era.
-DUAL-RHYTHM ARCHITECTURE™ | Organizational Sync‑Stability Index™ (The OSS Index™) — A Governance Currency for the AI Era. 
-Sovereign IP by 李宽续 (Li Kuanxu)
-Founder & Author
+DUAL-RHYTHM ARCHITECTURE™ | The Organizational Sync‑Stability —  The board-level structural stability metric for the AI era.
+Founder & Author: 李宽续 (Li Kuanxu)
 ORCID: https://orcid.org/0009-0006-7346-3999
 
 About This Repository
