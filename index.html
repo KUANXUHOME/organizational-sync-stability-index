@@ -5,50 +5,68 @@
   <title>DUAL‑RHYTHM ARCHITECTURE™</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+    /* 基础样式 */
     body {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: "Helvetica Neue", Arial, sans-serif;
       margin: 0;
       padding: 0;
       background-color: #ffffff;
       color: #222;
       line-height: 1.6;
     }
+
+    /* 首屏背景分区 */
     header {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       text-align: center;
-      padding: 60px 20px 20px;
-      background-color: #f5f5f5;
+      padding: 80px 20px;
+      background: linear-gradient(135deg, #0a3d62, #3c6382);
+      color: #fff;
     }
     header h1 {
-      font-size: 28px;
+      font-size: 32px;
       font-weight: bold;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
     }
     header h2 {
-      font-size: 18px;
+      font-size: 20px;
       font-style: italic;
-      margin-bottom: 20px;
+      margin-bottom: 25px;
     }
     .value-proposition {
-      font-size: 16px;
-      margin: 20px auto;
+      font-size: 18px;
       max-width: 800px;
-      color: #444;
+      margin: 0 auto;
+      color: #f0f0f0;
     }
+
+    /* 公式展示区 */
     .formula-section {
-      text-align: center;
-      padding: 40px 20px;
+      display: grid;
+      grid-template-columns: 1fr;
+      justify-items: center;
+      padding: 60px 20px;
+      background-color: #f9f9f9;
     }
     .formula-section h3 {
-      font-size: 20px;
-      margin-bottom: 10px;
+      font-size: 22px;
+      margin-bottom: 15px;
     }
     .formula {
       font-size: 18px;
-      margin: 10px 0;
-    }
-    .author-section {
+      margin: 12px 0;
       text-align: center;
-      padding: 30px 20px;
+    }
+
+    /* 作者信息区 */
+    .author-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
       background-color: #fafafa;
       border-top: 1px solid #ddd;
     }
@@ -56,14 +74,17 @@
       color: #0066cc;
       text-decoration: none;
     }
+
+    /* 按钮区 */
     .buttons {
-      text-align: center;
-      margin: 30px 0;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: 40px 0;
     }
     .buttons a {
-      display: inline-block;
       margin: 10px;
-      padding: 12px 24px;
+      padding: 14px 28px;
       font-size: 16px;
       font-weight: bold;
       color: #fff;
@@ -75,19 +96,20 @@
     .buttons a:hover {
       background-color: #004999;
     }
+
+    /* 合规声明区 */
     .compliance {
       text-align: center;
       font-size: 14px;
       color: #555;
       background-color: #f0f0f0;
-      padding: 20px;
-      margin-top: 40px;
+      padding: 30px 20px;
     }
 
     /* 响应式布局 */
     @media (max-width: 768px) {
       header h1 {
-        font-size: 20px;
+        font-size: 22px;
         line-height: 1.4;
       }
       header h2 {
@@ -98,15 +120,18 @@
         padding: 0 10px;
       }
       .formula-section h3 {
-        font-size: 16px;
+        font-size: 18px;
       }
       .formula {
         font-size: 14px;
       }
+      .buttons {
+        flex-direction: column;
+        align-items: center;
+      }
       .buttons a {
-        display: block;
         width: 80%;
-        margin: 10px auto;
+        text-align: center;
         font-size: 14px;
       }
     }
@@ -151,4 +176,3 @@
 
 </body>
 </html>
-
