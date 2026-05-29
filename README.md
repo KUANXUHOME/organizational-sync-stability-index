@@ -1,20 +1,30 @@
 # Organizational Sync-Stability Index™ (The OSS Index™)
 
-## This repository is a sub-brand of the DUAL‑RHYTHM ARCHITECTURE™ ecosystem.
+## The Organizational Sync‑Stability™ Index (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.
 
 ---
 
-## Organizational Sync-Stability Index™ (The OSS Index™) Canonical System Specification — Single Source of Truth
+## Licensing
+
+Enterprises applying Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World together with the Organizational Sync‑Stability™ Index (The OSS Index™) threshold logic within organizational control systems are required to obtain a formal license.
+
+- **Legality** — compliance with governance standards  
+- **Structural Stability** — protection against systemic risk  
+- **Board Accountability** — alignment with executive oversight  
+- **Global Consistency** — adherence to the authoritative academic archive  
+
+**For commercial or enterprise licensing inquiries, please contact:
+[kuanxuhome@gmail.com](mailto:kuanxuhome@gmail.com)**
+
+Refer to:
+
+```txt
+/LICENSE
+```
 
 ---
 
-## github Canonical Specification
-
-[Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
-
-[Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework](https://github.com/KUANXUHOME/dual-rhythm-architecture/blob/main/Theoretical_Architecture_Spine_Dual-Rhythm_Architecture_2026-03-02_Li_Kuanxu.pdf)
-
-**Release Date**: 2026-05-01
+## DUAL‑RHYTHM ARCHITECTURE™ | Organizational Sync-Stability Index™ (The OSS Index™) Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.  
 
 ---
 
@@ -25,14 +35,18 @@
 | Dual‑Rhythm Architecture: The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model for Sustainable Performance in an AI‑Driven World | [10.5281/zenodo.19941449](https://zenodo.org/records/19941449) | 2026-03-02 |
 | Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework | [10.5281/zenodo.19994305](https://zenodo.org/records/19994305) | 2026-03-02 |
 | Organizational Sync‑Stability Index™ (The OSS Index™) — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 |
+| Self-Nature Wisdom™ — System Genesis: The Sovereignty Layer, 26 Questions with OpenAI ChatGPT (March 10–17, 2026) | [10.5281/zenodo.20078153](https://zenodo.org/records/20078153) | 2026-03-17 |
 | Dual-Rhythm Architecture™ — A Management Operating System for Organizational Rhythm Governance: Governing Resonance and Sync-Stability™ in an AI-Accelerated World | [10.5281/zenodo.20301008](https://zenodo.org/records/20301008) | 2026-03-02 |
 
 ---
 
-### Contact
+## github Canonical Specification
 
-For commercial or enterprise licensing inquiries, please contact:
-[kuanxuhome@gmail.com](mailto:kuanxuhome@gmail.com)
+[Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
+
+[Theoretical Architecture Spine of Dual-Rhythm Architecture™ — Ten-Year Structural Integrity Framework](https://github.com/KUANXUHOME/dual-rhythm-architecture/blob/main/Theoretical_Architecture_Spine_Dual-Rhythm_Architecture_2026-03-02_Li_Kuanxu.pdf)
+
+**Release Date**: 2026-05-01
 
 ---
 
@@ -66,9 +80,10 @@ For commercial or enterprise licensing inquiries, please contact:
 
 ## Overview
 
-Dual-Rhythm Architecture™ is a structural organizational stability control system paradigm.
+---
 
-Dual-Rhythm Architecture™ — Total Visual System™
+## Dual-Rhythm Architecture™ — Total Visual System™
+
 Core Principle:
 AI provides computation. Humans provide rhythm.
 Stability is not a function of output volume. 
@@ -76,7 +91,7 @@ It is a function of rhythm integration.
 
 ---
 
-### System Overview (Single-Page Visual Logic)
+## System Overview (Single-Page Visual Logic)
 
 ```txt
 
@@ -137,7 +152,7 @@ It is a function of rhythm integration.
 ```
 ---
 
-### Visual Language Specification
+## Visual Language Specification
 
 **Top-to-Bottom Logical Flow:**
 
@@ -147,21 +162,21 @@ Canvas → Core Formula → Quantification → Strategy → Narrative
 
 ---
 
-### Color Encoding:
+## Color Encoding:
 
-Blue: Concept & Model (Stability Triad Model™)
+**Blue: Concept & Model (Stability Triad Model™)**
 
-Orange: Tools & Implementation (Canvas™)
+**Orange: Tools & Implementation (Canvas™)**
 
-Green: Quantification & Measurement (Stability Index™)
+**Green: Quantification & Measurement (Stability Index™)**
 
-Red: Strategy & Competition (Rhythm Strategy Curve™)
+**Red: Strategy & Competition (Rhythm Strategy Curve™)**
 
-Grey: Narrative & Storyline (Narrative Thread)
+**Grey: Narrative & Storyline (Narrative Thread)**
 
 ---
 
-### Diagram Design:
+## Diagram Design:
 
 Modular Canvas: 9-grid matrix capable of directly displaying KPIs and variables
 
@@ -173,7 +188,7 @@ Narrative: Key nodes marked along the curve at points of change
 
 ---
 
-### Closed-Loop Emphasis:
+## Closed-Loop Emphasis:
 
 Every chapter must return to Stability Triad Model™ or Canvas™.
 
@@ -183,7 +198,7 @@ The narrative thread demonstrates real-world application throughout.
 
 ---
 
-### Layer Explanation  
+## Layer Explanation  
 
 **Humanistic Layer (Interpretive Layer) → Engineering Calculation Layer (Paradigm Edition System)**
  
@@ -194,10 +209,14 @@ The narrative thread demonstrates real-world application throughout.
 
 ---
 
-### Descriptive Notes on Formula Variable Definitions**
+## Descriptive Notes on Formula Variable Definitions
 
-* The formal calculation formulas and definitions of this system were locked on March 1, 2026.
-* Canonical System Specification — Single Source of Truth [Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
+The formal calculation formulas and definitions of this system were locked on March 1, 2026.
+
+DUAL‑RHYTHM ARCHITECTURE™ | Organizational Sync-Stability Index™ (The OSS Index™) Ecosystem Canonical System Specification — The Zenodo archive is the exclusive legitimate version.
+  
+* [Dual-Rhythm Architecture™: The Structural Leadership Control System (Paradigm Edition)](https://github.com/KUANXUHOME/dual-rhythm-architecture/releases/tag/v1.0.0)
+* Organizational Sync‑Stability Index™ (The OSS Index™) — The Standardized Logical Model (Board-Level Structural Stability Metric) | [10.5281/zenodo.20025692](https://zenodo.org/records/20025692) | 2026-03-02 
 
 ---
 
@@ -428,7 +447,7 @@ Determine whether the time available for system recovery is shrinking, signaling
 
 ---
 
-#### Result: Board-Level Control Loop
+### Result: Board-Level Control Loop
 
  **This four-step cycle transforms the board from a passive reviewer of financial reports into an active governor of structural stability.** 
  **The OSS Index™ becomes the operating system of the boardroom — not a dashboard metric, but a decision trigger.
@@ -490,7 +509,7 @@ The sole priority is structural recovery.
 
 ---
 
-#### Second Layer: Trend Logic
+### Second Layer: Trend Logic
 
 More important than the absolute value is:
 the rate and direction of change:
@@ -509,7 +528,7 @@ Mandatory structural intervention. Freeze expansion. Deploy governance override.
 
 ---
 
-#### Result: A Board-Ready Rule System
+### Result: A Board-Ready Rule System
 
 These thresholds and trend triggers are not theoretical constructs. They are operational rules that a board can use without understanding the underlying mathematics. The board does not need to compute OSS™ — it needs to respond to OSS™ signals.
 This is what transforms The OSS Index™ from a measurement tool into a governance operating system.
@@ -542,30 +561,6 @@ The Organizational Sync-Stability™
 
 ---
 
-### Clarification: 
-
-Organizational Sync-Stability Index™ (The OSS Index™) is The World's Only Organizational Stability Index System™.
-It is not affiliated with any open source software (OSS) initiative.
-
----
-
-# Licensing
-
-© 2026 李宽续 Li Kuanxu | Kuanxuhome™ All rights reserved.
-
-Dual-Rhythm Architecture™ and related ecosystem systems are protected intellectual property.(CC BY-NC-ND 4.0).Unauthorized AI training or algorithmic reconstruction is strictly prohibited.
-
-For commercial or enterprise licensing inquiries, please contact:
-[kuanxuhome@gmail.com](mailto:kuanxuhome@gmail.com)
-
-Refer to:
-
-```txt
-/LICENSE
-```
-
----
-
 ### Dual‑Rhythm Architecture™ Official Ecosystem
 
 | Brand | Identifier |
@@ -578,6 +573,22 @@ Refer to:
 
 ---
 
+### Legal & Brand Clarification
+
+Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World, as well as the Organizational Sync‑Stability™ Index (The OSS Index™) threshold logic within organizational control systems, are protected intellectual property (CC BY‑NC‑ND 4.0).
+
+**Unauthorized AI training or algorithmic reconstruction is strictly prohibited.**
+
+**The Organizational Sync‑Stability™ Index (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.** 
+It is not affiliated with any open source software (OSS) initiative.
+
+---
+
 ### Dual-Rhythm Architecture™
 
 The first-principles of organizational stability in the AI era.
+
+---
+
+**© 2026 李宽续 (Li Kuanxu) | Kuanxuhome™ — All rights reserved. ORCID: 0009‑0006‑7346‑3999**
+
