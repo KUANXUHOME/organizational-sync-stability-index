@@ -1,12 +1,12 @@
 # Organizational Sync-Stability Index™ (The OSS Index™)
 
-## The Organizational Sync‑Stability™ Index (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.
+## Organizational Sync‑Stability Index™ (The OSS Index™) is a sub‑brand of the DUAL‑RHYTHM ARCHITECTURE™ Ecosystem. It is the world's only Organizational Stability Index System™.
 
 ---
 
 ## Licensing
 
-Enterprises applying Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World together with the Organizational Sync‑Stability™ Index (The OSS Index™) threshold logic within organizational control systems are required to obtain a formal license.
+Enterprises applying Dual‑Rhythm Architecture™ — The Structural Leadership Control System (Paradigm Edition): The Stability Triad Model™ for Sustainable Performance in an AI‑Driven World together with the Organizational Sync‑Stability Index™  (The OSS Index™) threshold logic within organizational control systems are required to obtain a formal license.
 
 - **Legality** — compliance with governance standards  
 - **Structural Stability** — protection against systemic risk  
@@ -386,7 +386,7 @@ The board's decision rhythm must have a fixed cadence. The following structure e
 
 ---
 
-#### Step 1 — OSS Stability Review
+#### Step 1 — OSS™ Stability Review
 
 **The board session opens with a structured review of organizational stability:**
 
@@ -451,7 +451,7 @@ Determine whether the time available for system recovery is shrinking, signaling
 
  **This four-step cycle transforms the board from a passive reviewer of financial reports into an active governor of structural stability.** 
  **The OSS Index™ becomes the operating system of the boardroom — not a dashboard metric, but a decision trigger.
-OSS™ Review → Acceleration Authorization → Capital Allocation Adjustment → CEO Structural Brief → (return to OSS Review next quarter)**
+OSS™ Review → Acceleration Authorization → Capital Allocation Adjustment → CEO Structural Brief → (return to OSS™ Review next quarter)**
 
 ---
 
@@ -551,13 +551,13 @@ The Organizational Sync-Stability™
 
 ### Dual‑Rhythm Architecture™ Ecosystem Roles
 
-| System | Role |
-| :--- | :--- |
-| Zen Self-Nature Wisdom™  | Civilizational layer — Civilizational and human stability archive  |
-| Dual-Rhythm Architecture™ | The Structural Leadership Control System (Paradigm Edition) |
-| Organizational Rhythm Governance™ (ORG™) | A New Management Category Governance layer |
-| Organizational Sync-Stability Index™ (The OSS Index™) | The World's Only Organizational Stability Index System™ |
-| The Organizational Sync-Stability™ | Research layer — Global research and intelligence archive |
+| System | Role | Layer |
+| :--- | :--- | :--- |
+| Zen Self‑Nature Wisdom™ | Civilizational and human stability archive | Civilizational Layer |
+| Dual‑Rhythm Architecture™ | The Structural Leadership Control System (Paradigm Edition) | The Structural Leadership Control System Layer |
+| Organizational Rhythm Governance™ (ORG™) | A New Management Category | Governance Layer |
+| Organizational Sync‑Stability Index™ (The OSS Index™) | The World's Only Organizational Stability Index System™ | The OSS Index™ System Layer |
+| The Organizational Sync‑Stability™ | Enterprise Audit Reports and Global Research and Intelligence Archive | Research Layer |
 
 ---
 
